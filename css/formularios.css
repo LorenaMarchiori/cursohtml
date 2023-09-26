@@ -1,0 +1,57 @@
+#frmContato
+{
+    width: 10px;
+    height: 10px;
+    display: inline;
+ 
+    
+}
+section#formulario fieldset{
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 2px 2px 3px black;
+    padding-bottom: 9%;
+}
+section#formulario fieldset legend{
+    text-transform: uppercase;
+    
+}
+#frmContato input
+{
+    display: block;
+    width: 10px;
+    height: 15px;
+    margin-top: 2%;
+    margin-left: 35%;
+    padding: 10px;
+    width: 28%;
+    height: 40px;
+    border-radius: 5px 5px 5px 15px;
+    box-shadow: 2px 2px 3px black;
+    background-color: orange;
+    
+}
+
+#frmContato button
+{
+   align-content: center;
+   text-decoration: highlight;
+}
+
+#login{
+
+    width: 80%;
+    padding-left: 22%;
+    
+    
+}
+#login button{
+    margin-top: 2%;
+    margin-left: 46%;
+    background-color: black;
+    color: white;
+    border-radius: 2px 5px 2px 5px; 
+    width: 7%;
+    height: 25px;
+    text-transform: uppercase;
+    box-shadow: 2px 2px 3px black;
+}
